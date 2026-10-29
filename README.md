@@ -8,7 +8,7 @@ I like making random stuff. Mostly software, games, and occasionally hardware.
 
 [**Not YET built**](https://github.com/Kasn-w/not-yet-built) : First time trying 3D. A horror game built in 7 days for Brackeys Game Jam 2026.2.
 
-[**Driving Is Hard**](https://github.com/Kasn-w/driving-is-hard) : Best-received game game I made so far. Driving is fun, what can I say.
+[**Driving Is Hard**](https://github.com/Kasn-w/driving-is-hard) : Best-received game I made so far. Driving is fun, what can I say.
 
 ## Tools I used
 **Programming:** C/C++ · Python · Java · JavaScript · GDScript · SQL · HTML · CSS · Git
